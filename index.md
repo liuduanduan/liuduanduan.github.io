@@ -1,133 +1,106 @@
-**Raising our voices against the unjust treatment of the programmer in Chengde, this case has a tremendously negative impact and is far more severe than the 996 issue.**
+996.ICU
+===
 
-Link: [Chinese Programmer Fined Three Years' Salary for Working for Overseas Company Using VPN](https://www.reddit.com/r/China/comments/16qzbil/chinese_programmer_fined_three_years_salary_for/)
+“996”工作制，即每天早 9 点到岗，一直工作到晚上 9 点，每周工作 6 天。
 
-![image](https://github.com/996icu/996.ICU/assets/48942249/4e1906eb-ac5b-4b33-9470-bf422a345fba)
+“996”工作制的周工作时间为最低 12x6=72 小时。
 
+**中国大陆工时规管现况（标准工时）：**
+一天工作时间为 8 小时，平均每周工时不超过 40 小时；加班上限为一天 3 小时及一个月 36 小时，逾时工作薪金不低于平日工资的 150%。而一周最高工时则为 48 小时。平均每月计薪天数为 21.75 天。  
 
-[996.ICU](https://996.icu/#/en_US)
-=======
-**Please note that there exists NO other official account, app or merchandise except for the official domain and this repository.**
+## 相关法律法规
 
-* [中文版](./README_CN.md)
+“996”工作制，是对包括中华人民共和国宪法在内的如下法律法规的**公然违反**。
 
-The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying among Chinese developers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
+### [《中华人民共和国宪法》](http://www.npc.gov.cn/wxzl/wxzl/2000-12/26/content_4264.htm)
 
-[![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-[![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTkyMGViNmJiZjYwOWVlNzQ3NmQ4NTQyMDRiZTNmOWFkMzYxZWNmZGI0NDA4MWIwOGVhOThhMzc3NGQyMDBhZDc)
-[![HitCount](http://hits.dwyl.com/996icu/996ICU.svg)](http://hits.dwyl.com/996icu/996ICU)
+#### 第二章第四十三条：
 
+> 中华人民共和国劳动者有休息的权利。  
+> 国家发展劳动者休息和休养的设施，规定职工的工作时间和休假制度。  
 
-Related press coverage:
----
-* *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/)
-* *Financial Times:*  [China tech worker protest against long working hours goes viral](https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1)
-* *Wired:* [How github is helping overworked Chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
+### [《中华人民共和国劳动法》](http://www.npc.gov.cn/wxzl/wxzl/2000-12/05/content_4622.htm)
 
-See a [full list of press](externals/news_EN.md)
+#### 第一章第三条：
+> 劳动者享有平等就业和选择职业的权利、**取得劳动报酬的权利**、**休息休假的权利**、获得劳动安全卫生保护的权利、接受职业技能培训的权利、享受社会保险和福利的权利、提请劳动争议处理的权利以及法律规定的其他劳动权利。
 
+#### 第四章第三十六条：  
+> 国家实行劳动者每日工作时间不超过八小时、平均每周工作时间不超过四十四小时的工时制度。  
 
+#### 第四章第三十九条：  
+> 企业因生产特点不能实行本法第三十六条、第三十八条规定的，经劳动行政部门批准，可以实行其他工作和休息办法。  
 
-What is 996?
----
+#### 第四章第四十一条：    
+> 用人单位由于生产经营需要，经与工会和劳动者协商后可以延长工作时间，一般每日不得超过一小时；因特殊原因需要延长工作时间的，在保障劳动者身体健康的条件下延长工作时间每日不得超过三小时，但是每月不得超过三十六小时。  
 
-A "996" work schedule refers to an unofficial work schedule (9 a.m.&ndash;9 p.m., 6 days per week) that has been gaining popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours per week.
-Visit [996 working hour system](https://en.wikipedia.org/wiki/996_working_hour_system) on Wikipedia for more details.
+#### 第四章第四十三条：  
+> 用人单位不得违反本法规定延长劳动者的工作时间。  
 
+#### 第四章第四十四条：  
+> 有下列情形之一的，用人单位应当按照下列标准支付高于劳动者正常工作时间工资的工资报酬：  
+> （一）安排劳动者延长工作时间的，支付不低于工资的百分之一百五十的工资报酬；  
+> （二）休息日安排劳动者工作又不能安排补休的，支付不低于工资的百分之二百的工资报酬；  
+> （三）法定休假日安排劳动者工作的，支付不低于工资的百分之三百的工资报酬。
 
-What can I do?
----
+#### 第十二章第九十条：  
+> 用人单位违反本法规定，延长劳动者工作时间的，由劳动行政部门给予警告，责令改正，并可以处以罚款。  
 
-- Update this [list](blacklist/README.md) with evidence to help every worker.  [Third party perfect list channel](https://www.996action.com/index.php/889799)
-- Add this [badge](externals/instruction.md) to your project to support 996.ICU.
-- License your awesome projects with the [Anti 996 License](LICENSE).
-- Add [proposals](proposal/README.md) to give advice about the development of 996.ICU.
-- Go home at 6 pm without feeling sorry.
+#### 第十二章第九十一条：  
+> 用人单位有下列侵害劳动者合法权益情形之一的，由劳动行政部门责令支付劳动者的工资报酬、经济补偿，并可以责令支付赔偿金：  
+>  ……  
+>  （二）拒不支付劳动者延长工作时间工资报酬的；  
+> ……  
 
+### [《中华人民共和国劳动合同法》](http://www.npc.gov.cn/wxzl/gongbao/2013-04/15/content_1811058.htm)
 
-Voices
----
+#### 第三章第三十一条：
+> 用人单位应当严格执行劳动定额标准，不得强迫或者变相强迫劳动者加班。用人单位安排加班的，应当按照国家有关规定向劳动者支付加班费。  
 
-### State Media
-- [The 996 shall disappear](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
+#### 第五章第六十二条：
+> 用工单位应当履行下列义务：  
+> ……  
+> （三）支付加班费、绩效奖金，提供与工作岗位相关的福利待遇；  
+> ……  
 
+#### 第七章第八十五条：
+> 用人单位有下列情形之一的，由劳动行政部门责令限期支付劳动报酬、加班费或者经济补偿；劳动报酬低于当地最低工资标准的，应当支付其差额部分；逾期不支付的，责令用人单位按应付金额百分之五十以上百分之一百以下的标准向劳动者加付赔偿金：  
+>  （一）未按照劳动合同的约定或者国家规定及时足额支付劳动者劳动报酬的；  
+>  （二）低于当地最低工资标准支付劳动者工资的；  
+>  （三）安排加班不支付加班费的；  
+……  
 
-### Capitalists
-- **Jack Ma, founder of Alibaba**: `It is a huge blessing to be able to '996'`.
-- **Richard Liu, founder of JD.com**: `We will never force our employee to work as '996'`.
-  (However, as a result many anonymous employees claim that there is a **list** of departments which **ranked** them by overtime hours. The shortest will take punishments. And the leaders never leave evidences when asking employees to work as '996'.)
-- **Bai Ya, founder of Youzan**: `This will definitely be a right decision when we look back in a few years.`
+### [《国务院关于职工工作时间的规定》](http://www.mohrss.gov.cn/SYrlzyhshbzb/zcfg/flfg/xzfg/201604/t20160412_237909.html)
 
-### Developers
-- **Guido van Rossum, founder of Python**: [`The '996' working schedule is inhumane.`](https://twitter.com/gvanrossum/status/1111628076801236993)
+#### 第三条：
+> 职工每日工作 8 小时、每周工作 40 小时。
 
+#### 第六条：
+> 任何单位和个人不得擅自延长职工工作时间。因特殊情况和紧急任务确需延长工作时间的，按照国家有关规定执行。
 
-Principles and purposes
----
+### [《劳动部贯彻〈国务院关于职工工作时间的规定〉的实施办法》](http://hrss.jl.gov.cn/ldgx/ldyggl/201608/t20160824_2401504.html)
 
-* 996.ICU is an initiative initiated by IT practitioners. We welcome people from other fields and other countries to join the discussion.
+#### 第三条：
+> 职工每日工作 8 小时、每周工作 40 小时。实行这一工时制度，应保证完成生产和工作任务，不减少职工的收入。
 
-* This is not a political movement. We firmly uphold the labor law and request employers to respect the legitimate rights and interests of their employees.
+#### 第六条：
+> 任何单位和个人不得擅自延长职工工作时间。企业由于生产经营需要而延长职工工作时间的，应按《中华人民共和国劳动法》第四十一条的规定执行。
 
-* It is great progress from closed source to open source, and it will also be great progress from open source to emphasizing labor rights at the same time. What we want is to create an open source software license that advocates workers' rights.
+#### 第八条：
+> 根据本办法第六条、第七条延长工作时间的，企业应当按照《中华人民共和国劳动法》第四十四条的规定，给职工支付工资报酬或安排补休。
 
-* We are willing to hear all positive and constructive proposals and advocate mature and responsible speech.
+## 相关事件报道
 
+- 2016 年 9 月初起，陆续有网友爆料称，**58同城**实行全员 996 工作制，且周末加班没有工资。公司方面回应称，为应对业务量高峰期，公司每年 9、10 月份都会有动员，属常规性活动，而本次“996 动员”并非强制。（[58同城实行全员996工作制 被指意图逼员工主动辞职](http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml). 央广网. 2016-09-01. ）
 
-Expanding influence
----
+- 2019 年 1 月，杭州电商公司**有赞**在公司年会宣布未来执行 996 工作制，CEO 白鸦回应“几年后回看，这次绝对是好事”。（[年会成了“鸿门宴”，这家公司“强制996”被员工举报](http://www.linkshop.com.cn/web/archives/2019/418163.shtml). 联商网. 2019-01-22. ）
 
-Please feel free to [translate 996.ICU's contents](i18n/README.md), adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
+- 2019 年 3 月，曝**京东**开始实行分部门的 996 或 995 工作制，京东公关在脉脉平台上表示：“全情投入”。（[京东回应995工作制：不会强制要求 但要全情投入](https://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html). 网易科技. 2019-03-12. ）
 
-Community powers
----
-
-- [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work-life balanced companies.
-- [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
-- [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, current another anonymous voting list.
-- [996.Leave](https://github.com/623637646/996.Leave) encourages & introduces working overseas.
-- [996.RIP](https://web.archive.org/web/20190422174052/https://996.rip/) Old news never vanished.
-- [996.Petition](https://github.com/xokctah/996.petition) initiates petitions by sending open letters to relevant government departments.
-- [996.avengers](https://github.com/996-icu-avengers/Natasha) adds `996ICU` and `955WLB` tags on recruitment websites.
-- [996.OD](https://github.com/zheolong/996.OD.git) occupational diseases are the forewarning of ICU.
-- [996.Q](https://github.com/alexddhuang/996.Q) A repository to collect mocks, jokes, or gags about 996.
-- [996.survey](https://github.com/0594mazhiyuan/996.survey) A survey of the status of 996.
-- [support.996.ICU](https://github.com/msworkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU
-- [996.Blockchain](https://github.com/996BC/996.Blockchain) Blockchain for the 996 evidence
-- [996.Error](https://github.com/MagicLu550/996Error) Collect "996" exceptions written in various languages and can be used directly in the project.
-
-Where are the issues?
----
-
-Even with interaction limits on, the issues area was totally out of control.
-So I **personally** decided to switch it off, not by GitHub or others.
-
-
-License
+- 2021年1月4日，**拼多多**23岁女员工凌晨一点半下班路上猝死。（[拼多多23岁女员工猝死 媒体：家属已接受拼多多赔偿](https://news.163.com/21/0105/10/FVIPUKB30001899O.html).网易新闻。2021-01-05. ）
 ---
 
-[Anti-996 License](LICENSE)
+按照劳动法规定，996 工作制下只有拿到当前工资的 **2.275** 倍，才在经济账上不吃亏。
 
-- The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to weigh their way of working
-- See a [full list of projects](awesomelist/README.md) under Anti-996 License
+什么是 996.ICU？工作 996，生病 ICU。
 
-- This draft is adapted from the MIT license. For a more detailed explanation, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.
-- For law professionals or anyone who is willing to contribute to future version directly, please go to [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft). Thank you.
-
-Donate
----
-We accept following crypto currencies:
-
-- **ETH**: `0x57a7e421c8edfc7f13612f68a54365fc729f2355`
-
-- **USDT**(ERC20): `0x57a7e421c8edfc7f13612f68a54365fc729f2355`
-
-- **BTC**: `1CKB19MxFppcXC3GMG84URuuegifsy8GAr`
-
-Donations will be used to sustain/maintain the website.
-
-Contact
----
-
-You can reach me by [E-mail](mailto:996icu.repo@gmail.com) if you need.
+__Developers' lives matter.__
